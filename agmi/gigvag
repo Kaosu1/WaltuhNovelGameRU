@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Изображение</title>
+    <style>
+        .img-r{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 70%;
+            margin-top: 30px;
+        }
+        .bg-h{
+            background-image: url(waltuh/backgroundBasement.jpg);
+            color: white;
+            text-align: center;
+            padding-top: 100px;
+            padding-bottom: 100px;
+            background-size: cover;
+            font-size: 80px;
+        }
+        .raz{
+             width: 70%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 class="bg-h">Добро пожаловать!</h1>
+    </header>
+    <main>
+        <p></p>
+        <img class="img-r" src=""
